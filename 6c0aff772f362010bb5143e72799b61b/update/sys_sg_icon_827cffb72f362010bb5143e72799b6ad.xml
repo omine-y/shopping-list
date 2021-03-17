@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"f2bb","FontColor":"#e65651","BackgroundColor":"#e65651","Name":"icon-Bag"}</icon>
+        <name>icon-Bag</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-17 06:13:42</sys_created_on>
+        <sys_id>827cffb72f362010bb5143e72799b6ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Bag</sys_name>
+        <sys_package display_value="Shopping List" source="x_591323_shopping">6c0aff772f362010bb5143e72799b61b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">6c0aff772f362010bb5143e72799b61b</sys_scope>
+        <sys_update_name>sys_sg_icon_827cffb72f362010bb5143e72799b6ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-17 06:13:42</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>
